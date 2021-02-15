@@ -9,7 +9,7 @@ body {
     background-color: #F0F0F0;
     margin-left: auto;
     margin-right: auto;
-    padding: 10px;
+    /*padding: 10px;*/
     min-width: 700px;
 }
 
@@ -101,9 +101,8 @@ nav a:hover {
 
 main {
     margin-left: 180px;
-    background-color: #AEC3E3;
-    /*overflow: auto;*/
-    clear: right;
+    background-color: #ffffff;
+    padding: 10px;
     border: 1px solid blue;
 }
 
